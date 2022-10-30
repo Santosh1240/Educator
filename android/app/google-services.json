@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759850767579",
+    "project_id": "ali-ki-galti",
+    "storage_bucket": "ali-ki-galti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759850767579:android:988232a41c19fd9c17e8fe",
+        "android_client_info": {
+          "package_name": "com.example.ali_ka_sathi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759850767579-e87qgas58p6s156fit0fv311mjk0juj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLRAVE-8f8oIiO8zr1eqw_bsLrN8b7_Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759850767579-e87qgas58p6s156fit0fv311mjk0juj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
